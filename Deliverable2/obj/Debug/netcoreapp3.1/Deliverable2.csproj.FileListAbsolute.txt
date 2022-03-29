@@ -1,0 +1,14 @@
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.exe
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.deps.json
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.json
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.dev.json
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.pdb
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.csproj.AssemblyReference.cache
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfo.cs
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.pdb
+C:\Users\asiam\source\repos\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.genruntimeconfig.cache
